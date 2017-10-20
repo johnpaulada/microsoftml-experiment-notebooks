@@ -18,6 +18,7 @@ If you're too lazy to install all of it, you can use this [Docker image](https:/
 
 ## Experiments
 1. [Comment Flagging](https://github.com/johnpaulada/microsoftml-experiment-notebooks/tree/master/experiments/comment-flagging) *(Sentiment Analysis)* - This experiment uses the [`get_sentiment`](https://docs.microsoft.com/en-us/machine-learning-server/python-reference/microsoftml/get-sentiment) Microsoft ML function to flag negative comments from a csv file.
+2. [BASS Philippine Mobile Connection Recommender](https://github.com/johnpaulada/microsoftml-experiment-notebooks/tree/master/experiments/bass) *(Pandas & Numpy)* - Recommends the fastest mobile connection in the area (Smart, Globe, Sun, etc.). Uses BASS data.
 
 ## License
 MIT
